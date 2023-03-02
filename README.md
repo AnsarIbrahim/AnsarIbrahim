@@ -2,21 +2,21 @@
 
 <h1 align="center">Hi 👋, I'm Ansar Ibrahim</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
+<img align="right" alt="Coding" width="300" height= "300"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 
 - 🌱 I’m currently learning **Frame works, Animation**
 
-- 👨‍💻 All of my projects are available at [https://ansaribrahim.github.io/Ansar-Portfolio/](https://ansaribrahim.github.io/Ansar-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ansaribrahim.github.io/Ansar-Portfolio/]
 
 - 📫 How to reach me **ansaradheeb@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ansaribrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ansaribrahim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansaribrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ansaribrahim" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansaribrahim" alt="ansaribrahim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansaribrahim" alt="ansaribrahim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ansaradheeb" target="blank"><img src="https://img.shields.io/twitter/follow/ansaradheeb?logo=twitter&style=for-the-badge" alt="ansaradheeb" /></a> </p>
 
