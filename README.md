@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ansar Ibrahim</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="300" height= "300"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
+<img align="right" alt="Coding" width="200" height= "200"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 
 - 🌱 I’m currently learning **Frame works, Animation**
