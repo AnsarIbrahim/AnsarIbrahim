@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="300" height= "170"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 
-- 🌱 I’m currently learning **Frame works, Animation**
+- 🌱 I’m currently learning **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://ansaribrahim.github.io/Ansar-Portfolio/]
+- 👨‍💻 All of my projects are available at [https://github.com/AnsarIbrahim?tab=repositories]
 
 - 📫 How to reach me **ansaradheeb@gmail.com**
 
