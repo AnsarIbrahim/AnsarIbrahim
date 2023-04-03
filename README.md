@@ -4,6 +4,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
        <p>A passionate FullStack developer and a freelance software engineer from Tamilnadu, India <br>
        I am also a student at Microverse. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</p>
+                                                         <h2>Any Freelance work? I'm available</h2>
 <img align="right" alt="Coding" width="300" height= "170"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 
@@ -14,6 +15,8 @@
 - 📫 How to reach me **ansaradheeb@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
+
+- 🔭 I'm currently working in **To-Do-List**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansaribrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ansaribrahim" /> </p>
