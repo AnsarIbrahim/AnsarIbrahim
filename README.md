@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ansar Ibrahim</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-       <p>A passionate FullStack developer and a freelance software engineer from Tamilnadu, India <br>
+       <p align="center">A passionate FullStack developer and a freelance software engineer from Tamilnadu, India <br>
        I am also a student at Microverse. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</p>
-                                                         <h2>Any Freelance work? I'm available</h2>
+                                                         <h2 align="center">Any Freelance work? I'm available</h2>
 <img align="right" alt="Coding" width="300" height= "170"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
 
