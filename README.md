@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnsarIbrahim?tab=repositories]
+- 👨‍💻 All of my projects are available at [Ansar Repo](https://github.com/AnsarIbrahim?tab=repositories)
 
 - 📫 How to reach me **ansaradheeb@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 🔭 I'm currently working in **To-Do-List**
+- 🔭 I'm currently working in [To-Do-List](https://ansaribrahim.github.io/To-Do-List/dist/)
 
 - 💬 Ask me about **Html, Css, Javascript**
 
