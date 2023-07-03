@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 🔭 I'm currently working in [To-Do-List](https://ansaribrahim.github.io/To-Do-List/dist/)
+- 🔭 I'm currently working in [Math-Magicians[REACT]](https://github.com/AnsarIbrahim/Math-Magicians)
 
 - 💬 Ask me about **Html, Css, Javascript**
 
