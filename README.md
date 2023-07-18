@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 🔭 I'm currently working in [Book-Store[REACT]](https://github.com/AnsarIbrahim/book-store)
+- 🔭 I'm currently working in [Book-Store[REACT]](https://github.com/AnsarIbrahim/bookstore)
 
 - 💬 Ask me about **Html, Css, Javascript**
 
