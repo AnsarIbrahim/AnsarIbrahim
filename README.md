@@ -12,11 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [Ansar Repo](https://github.com/AnsarIbrahim?tab=repositories)
 
-- 📫 How to reach me **ansaradheeb@gmail.com**
+- 📫 How to reach me **[Email me](ansaradheeb@gmail.com)**
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 🔭 I'm currently working in [Book-Store[REACT]](https://github.com/AnsarIbrahim/bookstore)
+- 🔭 I'm currently working in [Ruby Project]()
 
 - 💬 Ask me about **Html, Css, Javascript**
 
