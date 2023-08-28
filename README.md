@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Ansar Repo](https://github.com/AnsarIbrahim?tab=repositories)
 
-- 📫 How to reach me **[Email me](ansaradheeb@gmail.com)**
+- 📫 How to reach me **[on Email](ansaradheeb@gmail.com)**
 
 - ⚡ Fun fact **I Think I am Funny**
 
