@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ansar Ibrahim</h1>
 <h3 align="center">A passionate full-stack developer</h3>
        <p align="center">A passionate FullStack developer and a freelance software engineer from Tamilnadu, India <br>
-       I am also a student at Microverse. i learned a lot from Microverse community and I love how collaboration and knowledge sharing happens through Microverse</p>
+       I am also a student at Microverse. I learned a lot from the Microverse community and I love how collaboration and knowledge sharing happens through Microverse</p>
                                                          <h2 align="center">Any Freelance work? I'm available</h2>
 <img align="right" alt="Coding" width="300" height= "170"src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
 
@@ -12,13 +12,13 @@
 
 - 👨‍💻 All of my projects are available at [Ansar Repo](https://github.com/AnsarIbrahim?tab=repositories)
 
-- 📫 How to reach me **[on Email](ansaradheeb@gmail.com)**
+- 📫 How to reach me **(ansaradheeb@gmail.com) [on Email]**
 
 - ⚡ Fun fact **I Think I am Funny**
 
 - 🔭 I'm currently working in [Ruby Project]()
 
-- 💬 Ask me about **Html, Css, Javascript**
+- 💬 Ask me about **Html, CSS, Javascript**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansaribrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ansaribrahim" /> </p>
