@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
-- 🔭 I'm currently working in [Ruby Project](https://github.com/AnsarIbrahim/Bloggy)
+- 🔭 I'm currently working on [Ruby Project](https://github.com/AnsarIbrahim/Bloggy)
 
 - 💬 Ask me about **Html, CSS, Javascript**
 
