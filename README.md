@@ -29,11 +29,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ansaradheeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansaradheeb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansaribrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansaribrahim" height="30" width="40" /></a>
-<a href="https://fb.com/ansarrasna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansarrasna" height="30" width="40" /></a>
-<a href="https://medium.com/@ansaribrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ansaribrahim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ansaradheeb" height="30" width="40" /></a>
+<a href="https://twitter.com/ansaradheeb" target="blank"><img align="center" src="./assests/x.png" alt="ansaradheeb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ansar-ibrahim" target="blank"><img align="center" src="./assests/link.png" alt="ansaribrahim" height="30" width="40" /></a>
+<a href="https://fb.com/ansarrasna" target="blank"><img align="center" src="./assests/facebook.png" alt="ansarrasna" height="30" width="40" /></a>
+<a href="https://medium.com/@ansaribrahim" target="blank"><img align="center" src="./assests/medium.png" alt="@ansaribrahim" height="30" width="40" /></a>
+<a href="https://angel.co/u/ansar-ibrahim" target="blank"><img align="center" src="./assests/Angellist.png" alt="your-username" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img align="center" src="./assests/hackerrank.png" alt="ansaradheeb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
