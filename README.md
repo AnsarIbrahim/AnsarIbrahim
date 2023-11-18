@@ -28,14 +28,16 @@
 <p align="left"> <a href="https://twitter.com/ansaradheeb" target="blank"><img src="https://img.shields.io/twitter/follow/ansaradheeb?logo=twitter&style=for-the-badge" alt="ansaradheeb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ansaradheeb" target="blank"><img align="center" src="./assests/x.png" alt="ansaradheeb" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ansar-ibrahim" target="blank"><img align="center" src="./assests/link.png" alt="ansaribrahim" height="30" width="40" /></a>
-<a href="https://fb.com/ansarrasna" target="blank"><img align="center" src="./assests/facebook.png" alt="ansarrasna" height="30" width="40" /></a>
-<a href="https://medium.com/@ansaribrahim" target="blank"><img align="center" src="./assests/medium.png" alt="@ansaribrahim" height="30" width="40" /></a>
-<a href="https://angel.co/u/ansar-ibrahim" target="blank"><img align="center" src="./assests/Angellist.png" alt="your-username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img align="center" src="./assests/hackerrank.png" alt="ansaradheeb" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/ansaradheeb" target="blank"><img src="./assests/x.png" alt="ansaradheeb" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ansar-ibrahim" target="blank"><img src="./assests/link.png" alt="ansaribrahim" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://fb.com/ansarrasna" target="blank"><img src="./assests/facebook.png" alt="ansarrasna" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://medium.com/@ansaribrahim" target="blank"><img src="./assests/medium.png" alt="@ansaribrahim" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://angel.co/u/ansar-ibrahim" target="blank"><img src="./assests/Angellist.png" alt="your-username" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img src="./assests/hackerrank.png" alt="ansaradheeb" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
