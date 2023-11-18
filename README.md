@@ -30,12 +30,12 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/ansaradheeb" target="blank"><img src="./assests/x.png" alt="ansaradheeb" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/ansar-ibrahim" target="blank"><img src="./assests/link.png" alt="ansaribrahim" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://fb.com/ansarrasna" target="blank"><img src="./assests/facebook.png" alt="ansarrasna" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://medium.com/@ansaribrahim" target="blank"><img src="./assests/medium.png" alt="@ansaribrahim" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://angel.co/u/ansar-ibrahim" target="blank"><img src="./assests/Angellist.png" alt="your-username" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img src="./assests/hackerrank.png" alt="ansaradheeb" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://twitter.com/ansaradheeb" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/668db07b-8a78-41f9-9da5-98fc1f9035a7" alt="ansaradheeb" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ansar-ibrahim" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/9741d255-8fbd-4bd3-8ad2-0c83f5ffb6a5" alt="ansaribrahim" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://fb.com/ansarrasna" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/21c6fc37-e60b-4e78-8d30-a36e41c1504d" alt="ansarrasna" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://medium.com/@ansaribrahim" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/aa8d958e-cea8-4fd0-a753-eb48403c947f" alt="@ansaribrahim" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://angel.co/u/ansar-ibrahim" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/33339d2c-8552-4289-b5ab-a19b85c3f64c" alt="your-username" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/ansaradheeb" target="blank"><img src="https://github.com/AnsarIbrahim/AnsarIbrahim/assets/117971223/74c9783a-58e0-4319-911a-1ed4645ec2a6" alt="ansaradheeb" height="30" width="40" /></a></td>
   </tr>
 </table>
 
